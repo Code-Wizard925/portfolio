@@ -242,6 +242,7 @@ h2 {
   display: none;
   justify-content: flex-start;
   align-items: center;
+  text-decoration: none;
 }
 #hire img{
   height: 1.5em;
